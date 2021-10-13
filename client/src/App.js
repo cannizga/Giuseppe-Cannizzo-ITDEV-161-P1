@@ -24,9 +24,10 @@ class App extends React.Component {
     return (
       <div className = "App" >
         <header className = "App-header">
-          GoodThings
+          Latest News On Metal Bands!!!
         </header>
       </div>
+
     );
   }
 }

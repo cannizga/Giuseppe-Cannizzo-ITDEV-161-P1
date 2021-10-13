@@ -5,6 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("RainyWindow.jpg");
+  background-color: rgba(0, 0, 0, 0.418);
+  background-blend-mode: color;
+  background-repeat: repeat;
+  position: relative;
+}
+
+#circle {
+  background-color: rgba(72, 138, 196, 0.555);
+  margin-top: 2em;
+  margin-left: 10%;
+  width: 80%;
+  height: 780px;
+}
+
+#text {
+  color: black;
+  text-align: left;
+  margin-left: 2%;
+  padding-top: 2%;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 20px;
 }
 
 code {
